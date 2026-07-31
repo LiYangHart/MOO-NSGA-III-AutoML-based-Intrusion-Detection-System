@@ -1,0 +1,2 @@
+# MOO-NSGA-III-AutoML-based-Intrusion-Detection-System
+This repository includes code for the paper “A Multi-Objective AutoML-based Efficient Intrusion Detection System for EV Charging Networks” accepted in IEEE Global Communications Conference (GLOBECOM 2026), implementing MOO (NSGA-III) and AutoML-based intrusion detection systems that optimize both ML model performance and efficiency for IoT systems.
