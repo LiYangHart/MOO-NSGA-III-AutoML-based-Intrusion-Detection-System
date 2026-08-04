@@ -2,7 +2,7 @@
 
 This repository includes the code and datasets for the paper **"[A Multi-Objective AutoML-based Efficient Intrusion Detection System for EV Charging Networks](https://arxiv.org/abs/2608.02274)"** accepted at the **2026 IEEE Global Communications Conference (GLOBECOM 2026)**.
 
-In this work, we propose a deployment-aware Multi-Objective Optimization and Automated Machine Learning (**MOO-AutoML**) framework for accurate and efficient intrusion detection in Electric Vehicle Charging Systems (**EVCSs**), Internet of Things (**IoT**) systems, and general networks. The framework combines lightweight training, LightGBM-based automated feature selection, and NSGA-III-based multi-objective optimization to balance intrusion detection performance, inference latency, and model size.
+In this work, we propose a deployment-aware Multi-Objective Optimization and Automated Machine Learning (**MOO-AutoML**) framework for accurate and efficient intrusion detection in Electric Vehicle Charging Systems (EVCSs), Internet of Things (IoT) systems, and general networks. The framework combines lightweight training, LightGBM-based automated feature selection, and NSGA-III-based multi-objective optimization to balance intrusion detection performance, inference latency, and model size.
 
 **Author:** Li Yang  
 **Organizations:**
